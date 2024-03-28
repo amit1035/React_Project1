@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React_Project1/static/css/main.c589d90b.css",
-    "main.js": "/React_Project1/static/js/main.5a33e020.js",
-    "static/js/453.f7d36151.chunk.js": "/React_Project1/static/js/453.f7d36151.chunk.js",
-    "static/media/logo.svg": "/React_Project1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/React_Project1/index.html",
-    "main.c589d90b.css.map": "/React_Project1/static/css/main.c589d90b.css.map",
-    "main.5a33e020.js.map": "/React_Project1/static/js/main.5a33e020.js.map",
-    "453.f7d36151.chunk.js.map": "/React_Project1/static/js/453.f7d36151.chunk.js.map"
+    "main.css": "/React_Password/static/css/main.04d7458d.css",
+    "main.js": "/React_Password/static/js/main.99fb0d8b.js",
+    "static/js/453.f7d36151.chunk.js": "/React_Password/static/js/453.f7d36151.chunk.js",
+    "index.html": "/React_Password/index.html",
+    "main.04d7458d.css.map": "/React_Password/static/css/main.04d7458d.css.map",
+    "main.99fb0d8b.js.map": "/React_Password/static/js/main.99fb0d8b.js.map",
+    "453.f7d36151.chunk.js.map": "/React_Password/static/js/453.f7d36151.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c589d90b.css",
-    "static/js/main.5a33e020.js"
+    "static/css/main.04d7458d.css",
+    "static/js/main.99fb0d8b.js"
   ]
 }
